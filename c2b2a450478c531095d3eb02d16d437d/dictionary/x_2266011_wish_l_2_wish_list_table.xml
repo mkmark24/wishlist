@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="9b146014478c531095d3eb02d16d43eb" label="Wish List table" max_length="40" name="x_2266011_wish_l_2_wish_list_table" type="collection">
+        <element label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="requester"/>
+        </index>
+    </element>
+</database>

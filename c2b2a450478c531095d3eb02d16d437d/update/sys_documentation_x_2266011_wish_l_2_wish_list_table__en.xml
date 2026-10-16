@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Wish List table" language="en" table="x_2266011_wish_l_2_wish_list_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Wish List table</label>
+            <language>en</language>
+            <name>x_2266011_wish_l_2_wish_list_table</name>
+            <plural>Wish List tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 06:39:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wish List table</sys_name>
+            <sys_package display_value="Wish List" source="x_2266011_wish_l_2">c2b2a450478c531095d3eb02d16d437d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">c2b2a450478c531095d3eb02d16d437d</sys_scope>
+            <sys_update_name>sys_documentation_x_2266011_wish_l_2_wish_list_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 06:39:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
